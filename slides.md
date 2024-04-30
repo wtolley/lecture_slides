@@ -1,5 +1,5 @@
 ---
-theme: serif
+theme: seriph
 title: "CSCI 297: Ethical Hacking"
 info: "Introduction: Linux Basics and Cryptographic Tools"
 author: William J. Tolley
