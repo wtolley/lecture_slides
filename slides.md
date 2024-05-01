@@ -7,7 +7,6 @@ email: "wtolley@wlu.edu"
 date: "Today's Date"
 highlighter: shiki
 transition: slide
-download: true
 ---
 
 # Introduction: Linux Basics and Cryptographic Tools
